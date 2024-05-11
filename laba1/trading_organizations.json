@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Trading Organization F",
+      "address": "123 Main Street",
+      "phone": "+1111111111",
+      "email": "info@orgf.com"
+    },
+    {
+      "name": "Trading Organization G",
+      "address": "456 Elm Street",
+      "phone": "+2222222222",
+      "email": "info@orgg.com"
+    },
+    {
+      "name": "Trading Organization H",
+      "address": "789 Oak Street",
+      "phone": "+3333333333",
+      "email": "info@orgh.com"
+    },
+    {
+      "name": "Trading Organization I",
+      "address": "101 Maple Street",
+      "phone": "+4444444444",
+      "email": "info@orgi.com"
+    },
+    {
+      "name": "Trading Organization J",
+      "address": "202 Pine Street",
+      "phone": "+5555555555",
+      "email": "info@orgj.com"
+    }
+]  

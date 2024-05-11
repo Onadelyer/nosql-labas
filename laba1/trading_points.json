@@ -1,0 +1,38 @@
+[
+    {
+      "name": "Department Store #2",
+      "type": "department store",
+      "address": "10 Commercial Street",
+      "floor": 2,
+      "salesperson_count": 20
+    },
+    {
+      "name": "Supermarket B",
+      "type": "supermarket",
+      "address": "20 Market Street",
+      "floor": 1,
+      "salesperson_count": 12
+    },
+    {
+      "name": "Kiosk #2",
+      "type": "kiosk",
+      "address": "30 Plaza Street",
+      "floor": 0,
+      "salesperson_count": 2
+    },
+    {
+      "name": "Boutique ABC",
+      "type": "boutique",
+      "address": "40 Fashion Avenue",
+      "floor": 1,
+      "salesperson_count": 4
+    },
+    {
+      "name": "Electronics Store Y",
+      "type": "electronics store",
+      "address": "50 Tech Street",
+      "floor": 1,
+      "salesperson_count": 10
+    }
+]
+  

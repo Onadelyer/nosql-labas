@@ -1,0 +1,33 @@
+[
+    {
+      "first_name": "Sarah",
+      "last_name": "Wilson",
+      "position": "salesperson",
+      "trading_point": "Department Store #2"
+    },
+    {
+      "first_name": "Michael",
+      "last_name": "Johnson",
+      "position": "salesperson",
+      "trading_point": "Supermarket B"
+    },
+    {
+      "first_name": "Emma",
+      "last_name": "Brown",
+      "position": "salesperson",
+      "trading_point": "Kiosk #2"
+    },
+    {
+      "first_name": "James",
+      "last_name": "Davis",
+      "position": "salesperson",
+      "trading_point": "Boutique ABC"
+    },
+    {
+      "first_name": "Olivia",
+      "last_name": "Miller",
+      "position": "salesperson",
+      "trading_point": "Electronics Store Y"
+    }
+]
+  

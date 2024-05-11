@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Supplier W",
+      "address": "60 Logistics Lane",
+      "phone": "+7777777777"
+    },
+    {
+      "name": "Supplier V",
+      "address": "70 Import Street",
+      "phone": "+9999999999"
+    },
+    {
+      "name": "Supplier Z",
+      "address": "80 Distribution Boulevard",
+      "phone": "+5555555555"
+    },
+    {
+      "name": "Supplier M",
+      "address": "90 Export Street",
+      "phone": "+3333333333"
+    },
+    {
+      "name": "Supplier N",
+      "address": "100 Wholesale Avenue",
+      "phone": "+1111111111"
+    }
+]
+  

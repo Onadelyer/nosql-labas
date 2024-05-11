@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Trousers",
+      "price": 250,
+      "category": "Clothing"
+    },
+    {
+      "name": "Shoes",
+      "price": 400,
+      "category": "Footwear"
+    },
+    {
+      "name": "Bags",
+      "price": 300,
+      "category": "Accessories"
+    },
+    {
+      "name": "Hats",
+      "price": 150,
+      "category": "Accessories"
+    },
+    {
+      "name": "Gloves",
+      "price": 100,
+      "category": "Accessories"
+    }
+]
+  
